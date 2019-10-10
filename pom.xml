@@ -6,7 +6,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
  <artifactId>simple_webapp</artifactId>
  <packaging>war</packaging>
  <version>1.0-SNAPSHOT</version>
- <name>SimpleSpringMavenWebApp</name>
+ <name>simple_webapp</name>
 
  <dependencies>
 
